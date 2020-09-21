@@ -1,2 +1,2 @@
-# euroleague
-Euroleaugue champtionship simulation
+# Euroleague
+Euroleaugue chambionship simulation
